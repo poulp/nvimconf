@@ -15,3 +15,4 @@ set showmatch
 let mapleader=","
 
 colorscheme molokai
+vmap X y/<C-R>"<CR>
